@@ -88,6 +88,8 @@ If an administrator has marked your account as **VIP**, your charging sessions a
 
 ## Reservations
 
+![Reservaions](images/user/reservation.png)
+
 Open the **Reservation** tab to see your upcoming bookings (charger, date, time window). This helps guarantee a charger is free when you arrive.
 
 **To make a reservation:**
