@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide the first <h1> tag inside the markdown body */
+.markdown-body > h1:first-of-type {
+  display: none !important;
+}
